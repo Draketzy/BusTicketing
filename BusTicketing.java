@@ -8,6 +8,6 @@ public class BusTicketing
         System.out.println("undang nata!!");
         System.out.print("Hello madafakaaas!!!!");
         System.out.print("PRAKTISSS UWU");
-
+        System.out.print
     }
 }
