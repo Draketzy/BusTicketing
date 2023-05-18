@@ -4,6 +4,6 @@ public class BusTicketing
         System.out.print("Hi...");
         System.out.print("Hellooooooo!!");
         System.out.println("Halooo");
-        
+        System.out.println("mga pugiii");
     }
 }
